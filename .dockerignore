@@ -1,0 +1,63 @@
+# 忽略所有自动生成的二进制文件和编译输出
+**/bin/
+**/obj/
+
+# 忽略 NuGet 缓存文件
+**/*.nuget.cache
+**/*.nupkg
+
+# 忽略编辑器和 IDE 自动生成的文件
+*.suo
+*.user
+*.userosscache
+*.vspscc
+*.vssscc
+*.sln.docstates
+
+# 忽略 Visual Studio 生成的临时文件
+.vs/
+*.vcxproj.cache
+*.vcxproj.filters
+*.vcxproj.user
+
+# 忽略 Git 相关文件
+.git/
+.gitignore
+.gitattributes
+
+# 忽略日志文件和临时文件
+*.log
+*.tmp
+*.bak
+
+# 忽略 NuGet 配置文件
+packages.config
+
+# 忽略 Visual Studio Code 工作区文件
+.vscode/
+
+# 忽略调试符号文件
+*.pdb
+
+# 忽略解决方案文件中的用户特定设置
+*.suo
+
+# 忽略测试结果文件
+TestResults/
+
+# 忽略 Docker 构建过程中生成的文件
+.dockerenv
+.dockerinit
+
+# 忽略第三方库源码中的无关文件
+ThirdParties/stargate/src/bin/
+ThirdParties/stargate/src/obj/
+ThirdParties/stargate/src/*.csproj.user
+
+# 忽略项目中的其他无关文件
+*.editorconfig
+Dockerfile
+KoalaApp.Server.sln
+launchSettings.json
+README.md
+LICENSE

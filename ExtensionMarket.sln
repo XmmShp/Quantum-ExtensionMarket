@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMarket", "ExtensionMarket.csproj", "{A1C0E25D-B148-747E-936B-C798D5FAB4C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1C0E25D-B148-747E-936B-C798D5FAB4C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C0E25D-B148-747E-936B-C798D5FAB4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C0E25D-B148-747E-936B-C798D5FAB4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C0E25D-B148-747E-936B-C798D5FAB4C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {765BF8FB-3C45-42FA-B56B-46A656E8ACF0}
+	EndGlobalSection
+EndGlobal
